@@ -13,7 +13,6 @@ List.append(9)
 print("\nList after Addition of Three elements: ")
 print(List)
   
-
 for i in range(1, 4):
     List.append(i)
 print("\nList after Addition of elements from 1-3: ")
