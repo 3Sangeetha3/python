@@ -22,4 +22,3 @@ print(mydata1[1])
 print(mydata1[-1])
 print(mydata1[-3])
 print(mydata1[-3][-1])
-
