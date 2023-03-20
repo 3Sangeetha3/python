@@ -26,3 +26,4 @@ print({True: a, False: b} [a < b])
 # tuple and Dictionary
 print((lambda: b, lambda: a)[a < b]())
 #Code by sangeetha
+#code
