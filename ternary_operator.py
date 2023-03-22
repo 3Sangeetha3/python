@@ -25,3 +25,4 @@ print({True: a, False: b} [a < b])
 # only one expression will be evaluated unlike in
 # tuple and Dictionary
 print((lambda: b, lambda: a)[a < b]())
+#Code by sangeetha
