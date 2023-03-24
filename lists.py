@@ -1,3 +1,4 @@
+print("lists")
 #creating an empty list
 List = []
 print("Blank List: ",List)
@@ -22,4 +23,3 @@ print(mydata1[1])
 print(mydata1[-1])
 print(mydata1[-3])
 print(mydata1[-3][-1])
-

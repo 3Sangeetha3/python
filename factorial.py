@@ -12,6 +12,7 @@ else:
 
 #using recursion method    
 # Python recursion is a method which calls itself.
+
 """
 def fact(n):  
     return 1 if (n==1 or n==0) else n * fact(n - 1);  
@@ -22,6 +23,7 @@ fact(num))
 """
 
 #using built_in function
+
 """
 import math  
 def fact(n):  
