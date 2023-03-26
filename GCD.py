@@ -8,3 +8,18 @@ else:
     while y != 0:
         x, y = y, x % y
     print(f'gcd: {x}')
+
+# alternative method with fruitful function
+''' 
+def gcd(x, y):
+    while y:
+        x, y = y, x % y
+    return x
+
+x = int(input('x: '))
+y = int(input('y: '))
+
+result = gcd(x, y)
+
+print(result, 'using fruitful function')
+'''
