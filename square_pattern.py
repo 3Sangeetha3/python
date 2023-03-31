@@ -4,3 +4,4 @@ for i in range(rows):
         print('*',end=" ")
     print(" ")
 print("out of the loop")
+#Code by Sangeetha
