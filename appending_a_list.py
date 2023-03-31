@@ -1,3 +1,4 @@
+print("lists")
 #append() method only works for the addition of elements at the end of the List
 #append() which takes only one argument
 

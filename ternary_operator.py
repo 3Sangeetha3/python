@@ -1,3 +1,4 @@
+print("ternary operator")
 # Program to demonstrate conditional operator
 a, b = 10, 20
  

@@ -1,3 +1,4 @@
+print("lists")
 #creating an empty list
 List = []
 print("Blank List: ",List)
