@@ -7,3 +7,4 @@ while i <= num:
         sum = sum + i
     i = i + 1
 print(f'sum: {sum}')
+//code by Sangeetha
