@@ -11,3 +11,4 @@ age = 18.0
 print(age)
 print(type(age))
 print(type(age1))
+//Code by sangeetha
